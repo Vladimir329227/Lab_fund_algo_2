@@ -1,0 +1,6 @@
+
+printf "\x12\x34" > tests/test3.bin
+
+printf "\xAA\x55\xAA" > tests/test4.bin
+
+printf "\xFF\x11\x22\xFF\x00\xAA\xBB\xCC\xFF\x00\x00\xFF" > tests/test5.bin
